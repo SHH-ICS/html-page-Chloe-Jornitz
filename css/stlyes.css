@@ -1,0 +1,12 @@
+body {
+  background-color: aliceblue;
+}
+
+h1 {
+  background-color: navy;
+  color:hsl(59, 100%, 79%);
+  padding: 40px;
+  text-align: center;
+  font-size: 250%;
+}
+
