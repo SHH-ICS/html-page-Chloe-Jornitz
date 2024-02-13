@@ -7,14 +7,19 @@ h1 {
   padding: 40px;
   text-align: center;
   font-size: 250%;
+  border: 8px solid cornflowerblue
 }
 .paragraph1 {
   background-color: #9fcaff;
   font-size: 150%;
   font-family: monospace;
+  padding: 10px
 }
 
 .image {
-  text-align: center;
-  border: solid cornflowerblue;
+  border: 4px solid cornflowerblue;
+}
+
+.link {
+  font-family: monospace;
 }
