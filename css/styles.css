@@ -1,7 +1,6 @@
 body {
   background-color: aliceblue;
 }
-
 h1 {
   background-color: navy;
   color:hsl(59, 100%, 79%);
@@ -11,5 +10,10 @@ h1 {
 }
 .paragraph1 {
   background-color: #9fcaff;
-  font-family: monospace
+  font-family: monospace;
+}
+
+.image {
+  text-align: center;
+  border: solid cornflowerblue;
 }
