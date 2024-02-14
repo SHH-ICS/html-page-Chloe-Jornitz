@@ -21,6 +21,7 @@ body {
 /* Stlye the world map image */
  #map {
   border: 8px solid cornflowerblue;
-  margin-left: 10%;
-  margin-right: 10%;
+  display: block;
+  margin-left: ;
+  margin-right: ;
  }
