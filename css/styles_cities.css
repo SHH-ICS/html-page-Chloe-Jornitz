@@ -22,6 +22,6 @@ body {
  #map {
   border: 8px solid cornflowerblue;
   display: block;
-  margin-left: ;
-  margin-right: ;
+  margin-left: auto;
+  margin-right: auto;
  }
