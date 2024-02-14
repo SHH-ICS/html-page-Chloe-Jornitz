@@ -1,4 +1,4 @@
-/*style for the body of the page*/
+/* Style for the body of the page */
 body {
   background-color: powderblue;
 }
@@ -18,8 +18,9 @@ body {
     border: 4px solid lightgreen;
     padding: 10px;
   }
-/*Stlye the world map image*/
+/* Stlye the world map image */
  #map {
-  border: 8px solid blue;
-  text-align: center;
+  border: 8px solid cornflowerblue;
+  margin-left: auto;
+  margin-right: auto;
  }
